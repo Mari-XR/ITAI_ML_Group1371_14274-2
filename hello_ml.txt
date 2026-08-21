@@ -3,7 +3,7 @@ This is my first GitHub file for the Classic Machine Learning course.
 
 Marisabel Morales
 Joshua Balderas
-Katherine Rodriguez
+hello from Katherine Rodriguez
 
 
 
