@@ -1,5 +1,5 @@
 Group ML_1371_14274 2
-
+This is my first GitHub file for the Classic Machine Learning course.
 
 Marisabel Morales
 Joshua Balderas
